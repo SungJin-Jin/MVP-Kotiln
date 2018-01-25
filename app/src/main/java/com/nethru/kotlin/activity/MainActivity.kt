@@ -1,7 +1,8 @@
-package com.nethru.mvp_kotlin
+package com.nethru.kotlin.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.nethru.kotlin.R
 
 class MainActivity : AppCompatActivity() {
 
