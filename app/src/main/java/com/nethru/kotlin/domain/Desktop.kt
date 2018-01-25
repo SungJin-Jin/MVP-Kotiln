@@ -37,6 +37,10 @@ data class Desktop(var id: Long,
         return 0
     }
 
+    override fun toString(): String {
+        return "Desktop(id=$id, name='$name', os='$os', memory=$memory, cpuName=$cpuName, cpuCore=$cpuCore, cpuProcess=$cpuProcess, gpuName=$gpuName)"
+    }
+
     companion object CREATOR : Parcelable.Creator<Desktop> {
         override fun createFromParcel(parcel: Parcel) = Desktop(parcel)
 
