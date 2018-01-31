@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "486252775432",
+    "firebase_url": "https://mvp-kotlin.firebaseio.com",
+    "project_id": "mvp-kotlin",
+    "storage_bucket": "mvp-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486252775432:android:5290cf9558696786",
+        "android_client_info": {
+          "package_name": "com.nethru.kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486252775432-585sldhhobd445bnnkf40brvsekt3q32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PMg7Vk0ATNCEjC88iDFqK5F36f5Zdb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
